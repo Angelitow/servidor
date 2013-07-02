@@ -3,7 +3,7 @@
 		   
 		       Version 2, Junio 1991
 
-Copyright (C) 1989, 1991 Free Software Foundation, Inc.
+Copyright (C) 1989, 1991 Free Software Foundation, Inc.k
 675 Mass Ave, Cambridge, MA 02139, EEUU
 
 Se permiten la copia y distribución de copias literales de este documento,
